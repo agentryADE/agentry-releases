@@ -1,15 +1,15 @@
 {
-  "version": "1.5.2-beta.12",
-  "notes": "Agentry v1.5.2-beta.12 — patch update",
-  "pub_date": "2026-06-12T11:57:38.657Z",
+  "version": "1.5.2-beta.13",
+  "notes": "Agentry v1.5.2-beta.13 — patch update",
+  "pub_date": "2026-06-12T12:09:44.976Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSmR5enlBOUlaR2xCTW9aNnlGZTFCYWh2QU1Oc253bTNmWkZnNEo5c3lVQjM1cVBoVUZLajN0Y1pYd1Nac2tvUHpnRkJGczlpUjUwREU5Kzk3cC9OMVlFYmFWNHdjK2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjY1NDQ2CWZpbGU6QWdlbnRyeS5hcHAudGFyLmd6CmFrVTY0eU12SjM1MXdJSHdneXpWV2cvWmVyN2RJbE05MDNIVE9iQ3RVNkZaWm9VSmQyWmRSVFZRdDVYUHA0SDIxdy9UTnVmL3B1TkYzUkhGT3E3SUFRPT0K",
-      "url": "https://github.com/kanavdhiman112007-art/agentry-releases/releases/download/v1.5.2-beta.12/Agentry.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSmR5enlBOUlaR2dEcGdhY09hN2N1TCtTMW9HeGhLV0p1T3NJcWJZZU53U1RTWitKL21lcEJWYlBkWHdXNW9rTHB0SElHaVhJVE1WbUJ5NitMNzZ2WXd0MzVXSDgvQmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjY1OTY5CWZpbGU6QWdlbnRyeS5hcHAudGFyLmd6ClB0MEdhNE5XblhROUhzZU8wSlkyRjUvMXNnTEkrY3QyZ3B5OEpCVXBmV2REN3NaT05TMmkwVkhpYmN0eXc5SlYrL3NKSGlXRXhvakVVTUdEVEcwL0FBPT0K",
+      "url": "https://github.com/kanavdhiman112007-art/agentry-releases/releases/download/v1.5.2-beta.13/Agentry.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSmR5enlBOUlaR2xCTW9aNnlGZTFCYWh2QU1Oc253bTNmWkZnNEo5c3lVQjM1cVBoVUZLajN0Y1pYd1Nac2tvUHpnRkJGczlpUjUwREU5Kzk3cC9OMVlFYmFWNHdjK2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjY1NDQ2CWZpbGU6QWdlbnRyeS5hcHAudGFyLmd6CmFrVTY0eU12SjM1MXdJSHdneXpWV2cvWmVyN2RJbE05MDNIVE9iQ3RVNkZaWm9VSmQyWmRSVFZRdDVYUHA0SDIxdy9UTnVmL3B1TkYzUkhGT3E3SUFRPT0K",
-      "url": "https://github.com/kanavdhiman112007-art/agentry-releases/releases/download/v1.5.2-beta.12/Agentry.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSmR5enlBOUlaR2dEcGdhY09hN2N1TCtTMW9HeGhLV0p1T3NJcWJZZU53U1RTWitKL21lcEJWYlBkWHdXNW9rTHB0SElHaVhJVE1WbUJ5NitMNzZ2WXd0MzVXSDgvQmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjY1OTY5CWZpbGU6QWdlbnRyeS5hcHAudGFyLmd6ClB0MEdhNE5XblhROUhzZU8wSlkyRjUvMXNnTEkrY3QyZ3B5OEpCVXBmV2REN3NaT05TMmkwVkhpYmN0eXc5SlYrL3NKSGlXRXhvakVVTUdEVEcwL0FBPT0K",
+      "url": "https://github.com/kanavdhiman112007-art/agentry-releases/releases/download/v1.5.2-beta.13/Agentry.app.tar.gz"
     }
   }
 }
