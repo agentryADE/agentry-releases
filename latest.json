@@ -1,0 +1,15 @@
+{
+  "version": "1.5.2-beta.11",
+  "notes": "Agentry v1.5.2-beta.11 — patch update",
+  "pub_date": "2026-06-12T11:49:56.618Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSmR5enlBOUlaR3RPemxxY3pIL2p0c3l0bVJiZnUxc3ZkZVZVL3p5YjNaN1psazNvNUp1Nnc1emFwV2FiSXp6K2FueWNUalF6MER2SGh4OGJuQlFLUmdMdkRyb0RNb0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjY0OTM5CWZpbGU6QWdlbnRyeS5hcHAudGFyLmd6Cmc4amg3Q1NWSUp5S0FMM29KZ2dOWmt1TzBxZDBrZyt3YWVjZ01VeFArdktmTGt1SjkrdEFYRTFsallVTWl1OUNVTXpTamlPSzl1OWtaVjVhaHNoZkNBPT0K",
+      "url": "https://github.com/kanavdhiman112007-art/agentry-releases/releases/download/v1.5.2-beta.11/Agentry.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSmR5enlBOUlaR3RPemxxY3pIL2p0c3l0bVJiZnUxc3ZkZVZVL3p5YjNaN1psazNvNUp1Nnc1emFwV2FiSXp6K2FueWNUalF6MER2SGh4OGJuQlFLUmdMdkRyb0RNb0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjY0OTM5CWZpbGU6QWdlbnRyeS5hcHAudGFyLmd6Cmc4amg3Q1NWSUp5S0FMM29KZ2dOWmt1TzBxZDBrZyt3YWVjZ01VeFArdktmTGt1SjkrdEFYRTFsallVTWl1OUNVTXpTamlPSzl1OWtaVjVhaHNoZkNBPT0K",
+      "url": "https://github.com/kanavdhiman112007-art/agentry-releases/releases/download/v1.5.2-beta.11/Agentry.app.tar.gz"
+    }
+  }
+}
