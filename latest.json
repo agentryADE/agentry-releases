@@ -1,15 +1,19 @@
 {
-  "version": "1.5.2-beta.17",
-  "notes": "Agentry v1.5.2-beta.17 — patch update",
-  "pub_date": "2026-06-12T14:55:59.731Z",
+  "version": "1.5.2-beta.18",
+  "notes": "Agentry v1.5.2-beta.18 — mic click fix, pill overlay fix, Windows shortcut fix",
+  "pub_date": "2026-06-12T16:37:00.000Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSmR5enlBOUlaR2hWWldDSG4zUHNxWStteEJ5MWhMamRUMTkvbnEwRGI1WEt5RE1nai8ycjJzbG95TE5TWG1Ob1BuTUhvUlMremQ1cFo0VER3eWwwaFp2UFhTT0xZT1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjc2MTMyCWZpbGU6QWdlbnRyeS5hcHAudGFyLmd6CnJQMFZkcEFOdlhLSi9HeFdrRUtnYzV4TkRVR1VUVnNHeURpSEtMSnMweGhNRU5pMDJETmRhbzgvTjFyLzFrY2NFUy9xdDlDUXlBSGp0YVNPZEhvZkJBPT0K",
-      "url": "https://github.com/kanavdhiman112007-art/agentry-releases/releases/download/v1.5.2-beta.17/Agentry.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSmR5enlBOUlaR21HeHFOSXRULytUOE1ZeGFCVXFLeVdGK2JiZ0FZUTU4YUJVNVpZMTJXQTIwbVhTYUpXYVhJRUhWbXVvZ0pKNzg4OGVvU2svRDU3aGx4UkJhZWJ4YkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjc4NTg2CWZpbGU6QWdlbnRyeS5hcHAudGFyLmd6CjdpWGxoSDBpMHUrNFYyOEs1L1lraXg5d2EvWkczWkpxWTc2MkdrbysxaEtsZTFLbm0rTHlRS25Fa2Yybi91V1ZFNlJ2UkRkWjAxdytBSmgrclRnSUR3PT0K",
+      "url": "https://github.com/AgentryADE/agentry-releases/releases/download/v1.5.2-beta.18/Agentry.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSmR5enlBOUlaR2hWWldDSG4zUHNxWStteEJ5MWhMamRUMTkvbnEwRGI1WEt5RE1nai8ycjJzbG95TE5TWG1Ob1BuTUhvUlMremQ1cFo0VER3eWwwaFp2UFhTT0xZT1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjc2MTMyCWZpbGU6QWdlbnRyeS5hcHAudGFyLmd6CnJQMFZkcEFOdlhLSi9HeFdrRUtnYzV4TkRVR1VUVnNHeURpSEtMSnMweGhNRU5pMDJETmRhbzgvTjFyLzFrY2NFUy9xdDlDUXlBSGp0YVNPZEhvZkJBPT0K",
-      "url": "https://github.com/kanavdhiman112007-art/agentry-releases/releases/download/v1.5.2-beta.17/Agentry.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSmR5enlBOUlaR21HeHFOSXRULytUOE1ZeGFCVXFLeVdGK2JiZ0FZUTU4YUJVNVpZMTJXQTIwbVhTYUpXYVhJRUhWbXVvZ0pKNzg4OGVvU2svRDU3aGx4UkJhZWJ4YkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjc4NTg2CWZpbGU6QWdlbnRyeS5hcHAudGFyLmd6CjdpWGxoSDBpMHUrNFYyOEs1L1lraXg5d2EvWkczWkpxWTc2MkdrbysxaEtsZTFLbm0rTHlRS25Fa2Yybi91V1ZFNlJ2UkRkWjAxdytBSmgrclRnSUR3PT0K",
+      "url": "https://github.com/AgentryADE/agentry-releases/releases/download/v1.5.2-beta.18/Agentry.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTUg0SEFWZkVhQWlVRWlkMlBhamhMbVZwQUFDWnpiQXNZbXRoWmdzSUViSjRtdUl2cmNZeHd1SENpdThMMlg3UllzeEtHNjVzQ0NmWU1ELytobkx3WEVDai9wSDdROVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjgyMTg0CWZpbGU6QWdlbnRyeV8xLjUuMi1iZXRhLjE4X3g2NC1zZXR1cC5leGUKUWFLTWJGb3VZTVlUZmRXYlR4OFhpZUdtbUNLMER4RWxraVRUNU40eiswS3RDdS81TDhJQ3lvbWNrdmJldlJCeXJpUHpZWGVoOE1qcDZhdUthK0xuQ1E9PQo=",
+      "url": "https://github.com/AgentryADE/agentry-releases/releases/download/v1.5.2-beta.18/Agentry_1.5.2-beta.18_x64-setup.exe"
     }
   }
 }
