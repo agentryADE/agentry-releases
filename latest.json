@@ -6,7 +6,7 @@
                      },
             "windows-x86_64":  {
                        "url":  "https://github.com/AgentryADE/agentry-releases/releases/download/v1.5.4-beta.3/Agentry_1.5.4-beta.3_x64-setup.exe",
-                       "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSmR5enlBOUlaR203QThsWVZzc1RUYTFKMWhHSjc2dDczTzNIZHdyWHhhS0p4YlEwM3paVVZXK1ZEWVlmYTdTMWNqTUR2a2puQTdYeG5jcGJmSzNGQ1BSVzk5ZEpIeFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxODAyNjI1CWZpbGU6QWdlbnRyeV8xLjUuNC1iZXRhLjNfeDY0LXNldHVwLmV4ZQoyNU5LbmI2UnVneTRISkZMMzc0ZW1MNHMzZ04vNGcyc1VqOXo1UlpFWlFPNHJuM1NoNXBCTHVSS2I1SGRnYnJlbDIrZHJiZDlDbk1hMFZHdWM3amNEdz09"
+                       "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSmR5enlBOUlaR3R4Y3AwTE0xZTV5UnhRU1c3NVhWWnVGMHVRdkRYSjJ0NXVxQVZXWE1acitpUzdpTElWelU1Mk00MWlYTWhrVzVBM2J3aGp1NnErZFIvTUZvdWdBSkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxODA1OTk4CWZpbGU6QWdlbnRyeV8xLjUuNC1iZXRhLjNfeDY0LXNldHVwLmV4ZQpoL0M3NDhOY0xYUkVDZ3krcXJhRXl3Q1kwbGNCRUFPbDRTM3V5RlhHa0FLRFdCbkx3ZlBvUm1oVm9rblVxM0FXZGtCcmxsbGhrSy9TREpNNFNwdWJBUT09"
                      },
             "darwin-x86_64":  {
                       "url":  "https://github.com/AgentryADE/agentry-releases/releases/download/v1.5.4-beta.3/Agentry.app.tar.gz",
