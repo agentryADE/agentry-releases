@@ -1,4 +1,4 @@
-﻿{
+{
   "platforms":  {
             "darwin-aarch64":  {
                        "url":  "https://github.com/AgentryADE/agentry-releases/releases/download/v1.5.4-beta.3/Agentry.app.tar.gz",
