@@ -6,7 +6,7 @@
                      },
             "windows-x86_64":  {
                        "url":  "https://github.com/AgentryADE/agentry-releases/releases/download/v1.5.4-beta.3/Agentry_1.5.4-beta.3_x64-setup.exe",
-                       "signature":  ""
+                       "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSmR5enlBOUlaR3RvR2d4c1lSaXhyTG5GMFk5NFdWMWcyUUtyMlpURUxtVHVxWEFkVmx4dktmZVB6MVpuVi8vaFNxenozcmlST2NyaGtSbXJDandyM1kyMFcxeS9KZkEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxODAxMDE0CWZpbGU6QWdlbnRyeV8xLjUuNC1iZXRhLjNfeDY0LXNldHVwLmV4ZQo1UGd6dWd6cjUzZEFaNHNBdmNsY0pLbUVjNnNJaEU0aWZlRnRCTWRWV2FmNXFPM1kvVGFuRWowUUZmMmZFZGRIcVFGNDF4MEptcXJPOFpOSXJtclFCQT09Cg=="
                      },
             "darwin-x86_64":  {
                       "url":  "https://github.com/AgentryADE/agentry-releases/releases/download/v1.5.4-beta.3/Agentry.app.tar.gz",
