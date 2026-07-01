@@ -1,19 +1,19 @@
 {
+  "version": "1.6.1-beta.2",
+  "pub_date": "2026-07-01T16:15:09Z",
+  "notes": "https://github.com/AgentryADE/agentry-releases/releases/tag/v1.6.1-beta.2",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/AgentryADE/agentry-releases/releases/download/v1.6.1-beta.0/Agentry_1.6.1-beta.0_aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSmR5enlBOUlaR3JodVp3Mzk1VFJxYXJJc20zaU9vYlk5ODFETGIwYlJSeTNIVjl2T20vcEpES1Vlem05RnZCbXcrQS9kU2lsRVBEMTBkbEovQjB3eXFidGQ1QStLV0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzExOTk1CWZpbGU6QWdlbnRyeS5hcHAudGFyLmd6CjJ3dkhqU3FiWDErSmlOT1dpcTh3UkJsWjdOeU9YMjdQQ3E4WjdreG9weit5TWRQdEtDOGlGb1Zab1FtOEowRFRwazVSTml3UDVjdHl3aExFVDM5d0RBPT0K"
+      "url": "https://github.com/AgentryADE/agentry-releases/releases/download/v1.6.1-beta.2/Agentry.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSmR5enlBOUlaR2lqTHlwdGRSYjh1MVlCazRsbituc2hVaHNidHFtQVFZLzFFRzdTOFl3dW1BR1Q4bTN2SmpHQWFmS3dhQkhCMXBGMzNib1VQUHViOThpMUkrV3ZyYndFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyOTIxMjU1CWZpbGU6QWdlbnRyeS5hcHAudGFyLmd6CkROTHRKeEZJaFZJTzZQeHhnV3czc29hRXltNGFjMzIxcHdzb2FyYjdMNVJtWkloZ1RNbkd6ejZsYU1NSEZ3YThDNGFXQm5yNnJxVEZJWDhzNWZGSUFBPT0K"
     },
     "darwin-x86_64": {
-      "url": "https://github.com/AgentryADE/agentry-releases/releases/download/v1.6.0-beta.0/Agentry.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSmR5enlBOUlaR242ZFE2ZHBaU3N0aDNlVVljbjZZWlhvK2ROY1h4UVNPNURKdzQwdmU3dGYwUXY3eHRyOTlpQmN4ay9CalJkck1MZHVKaFBEczlySzBtTklubW53a1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxOTY3MjU4CWZpbGU6QWdlbnRyeS5hcHAudGFyLmd6Cm1tZmpGMW9vd0tvdi92NzljdFhWbUdPRno3SHRTM0MzaE9TZnFrNG96MTVCeGZTNHI4Ukdpd3JBNW50UFNJTkZabnZYbGY5SmZTRWgzL2haTUxPZ0NBPT0K"
+      "url": "https://github.com/AgentryADE/agentry-releases/releases/download/v1.6.1-beta.2/Agentry.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSmR5enlBOUlaR2lqTHlwdGRSYjh1MVlCazRsbituc2hVaHNidHFtQVFZLzFFRzdTOFl3dW1BR1Q4bTN2SmpHQWFmS3dhQkhCMXBGMzNib1VQUHViOThpMUkrV3ZyYndFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyOTIxMjU1CWZpbGU6QWdlbnRyeS5hcHAudGFyLmd6CkROTHRKeEZJaFZJTzZQeHhnV3czc29hRXltNGFjMzIxcHdzb2FyYjdMNVJtWkloZ1RNbkd6ejZsYU1NSEZ3YThDNGFXQm5yNnJxVEZJWDhzNWZGSUFBPT0K"
     },
     "windows-x86_64": {
-      "url": "https://github.com/AgentryADE/agentry-releases/releases/download/v1.6.1-beta.0/Agentry_1.6.1-beta.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSmR5enlBOUlaR3NJMVVQSXJqeGM0bFBrRFkxTDRhdno2QzZLVzNLeEY1R0ZVbDdaREUveEVNbG8xUjBOMnNreTVxS29qdVQzbU9oUmliVm9xUHlRd2hIbW1obU42aHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzI3NTA0CWZpbGU6QWdlbnRyeV8xLjYuMS1iZXRhLjBfeDY0LXNldHVwLmV4ZQpmc2tsaDVGcnR5b3I4eW1pb0R0ZjJ5NGozb2RVMzJtZVJBZDBIVW9xNlZQc3JPbWR2THc1Q2RVRHZWc05CSDRGM0dHVE4zanA3dVNUOGRLR2YyTFpDQT09Cg=="
+      "url": "https://github.com/AgentryADE/agentry-releases/releases/download/v1.6.1-beta.2/Agentry_1.6.1-beta.2_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSmR5enlBOUlaR2k3MUlGWmVhVE9tSzhHNG9RMENzaStvTVNoUFVVclhNL1kvM1lhQUtQdVh5ZFRvWTgrOHFEVnVDRG1JTjlESFUrWmxoN1ZZUjRKQm1qQVdNVE85OXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyOTIyMTI1CWZpbGU6QWdlbnRyeV8xLjYuMS1iZXRhLjJfeDY0LXNldHVwLmV4ZQo3Mks3R3RidGNKUm5MNHd3R2w0OHl0NmtwVWNwV3lmWmZUbE1QTDJ6UkVPVytDR2ttM3VXbktiZkhRRzRaa0dGQ3ZFVDVMNWh6UDdWQUx6NVgzWG5Bdz09Cg=="
     }
-  },
-  "pub_date": "2026-06-24T20:10:00Z",
-  "version": "1.6.1-beta.0",
-  "notes": "https://github.com/AgentryADE/agentry-releases/releases/tag/v1.6.1-beta.0"
+  }
 }
